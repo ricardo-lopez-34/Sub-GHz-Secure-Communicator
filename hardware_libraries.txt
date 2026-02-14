@@ -1,0 +1,5 @@
+1. LoRa (by Sandeep Mistry)
+2. Arduino-AES (by Davy Landman)
+3. LiquidCrystal_I2C (by Frank de Brabander)
+4. SPI (Built-in)
+5. Wire (Built-in)
